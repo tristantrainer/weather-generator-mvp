@@ -40,6 +40,3 @@ Requirements
     - Consideration: File format might differ in the future. 
 7. File name is arbitrary at this point
     - Consideration: File name might be important in the future
-
-Stages
-1. Create domain objects for each Weather Records, 
