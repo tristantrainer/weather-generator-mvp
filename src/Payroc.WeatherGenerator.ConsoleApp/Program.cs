@@ -9,7 +9,7 @@ Console.WriteLine("Hello, World!");
 var startTime = DateTime.UtcNow.AsOfPreviousHour();
 var numberOfDays = 7;
 var recordInterval = TimeSpan.FromHours(1);
-var outputFilePath = @"C:\Users\trist\Desktop\weather-forecast.WIS";
+var outputFilePath = @"** Choose a suitable file path **";
 
 var weatherForecast = WeatherForecastService.Generate(startTime, numberOfDays, recordInterval);
 
